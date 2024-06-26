@@ -21,6 +21,7 @@
 
 ![Screenshot 2024-06-26 at 17-20-36 Mailbox](https://github.com/Faruk-Celik/UserMessageApplication/assets/72822335/2764de3b-03c5-420d-923a-657b0f1b2a47)
 
+![Screenshot 2024-06-26 at 17-26-12 ☴ Mailbox](https://github.com/Faruk-Celik/UserMessageApplication/assets/72822335/795e50bf-b4c5-4723-b080-6492c3cfa88c)
+
 ![Ekran görüntüsü 2024-06-26 172217](https://github.com/Faruk-Celik/UserMessageApplication/assets/72822335/bb1f9c84-8d45-4085-8599-bc090efbab96)
 
-![Screenshot 2024-06-26 at 17-26-12 ☴ Mailbox](https://github.com/Faruk-Celik/UserMessageApplication/assets/72822335/795e50bf-b4c5-4723-b080-6492c3cfa88c)
