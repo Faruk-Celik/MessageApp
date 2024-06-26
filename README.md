@@ -13,11 +13,12 @@
 
 ![Screenshot 2024-06-26 at 17-10-39 Welcome](https://github.com/Faruk-Celik/UserMessageApplication/assets/72822335/4da514ee-de4f-4657-af27-b55156173c26)
 
+![Screenshot 2024-06-26 at 17-20-04 Mailbox](https://github.com/Faruk-Celik/UserMessageApplication/assets/72822335/aa1c25fb-bad7-41f4-abb5-9dd7cb4b29e1)
+
 ![Screenshot 2024-06-26 at 17-19-04 Mailbox](https://github.com/Faruk-Celik/UserMessageApplication/assets/72822335/17adc474-bb8d-4517-971f-967a998f9aa5)
 
 ![Screenshot 2024-06-26 at 17-19-15 Mailbox](https://github.com/Faruk-Celik/UserMessageApplication/assets/72822335/48d3e39f-622d-41ef-8ed4-9d977cd82c95)
 
-![Screenshot 2024-06-26 at 17-20-04 Mailbox](https://github.com/Faruk-Celik/UserMessageApplication/assets/72822335/aa1c25fb-bad7-41f4-abb5-9dd7cb4b29e1)
 
 ![Screenshot 2024-06-26 at 17-20-36 Mailbox](https://github.com/Faruk-Celik/UserMessageApplication/assets/72822335/2764de3b-03c5-420d-923a-657b0f1b2a47)
 
