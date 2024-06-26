@@ -8,7 +8,8 @@
 <li>There are user and email tables.</li>
 <li>No additional table has been used for email operations, and properties have been defined for emails to categorize them as inbox, sent, etc.</li>
 </h3>
-![Screenshot 2024-06-26 at 17-10-13 Create Account](https://github.com/Faruk-Celik/UserMessageApplication/assets/72822335/b4eebb2b-a585-4701-89fa-98978ecd803e)
+
+![Screenshot 2024-06-26 at 17-10-13 Create Account](https://github.com/Faruk-Celik/UserMessageApplication/assets/72822335/62a7a302-767b-4adb-bd64-e39433efc8cb)
 
 ![Screenshot 2024-06-26 at 17-10-39 Welcome](https://github.com/Faruk-Celik/UserMessageApplication/assets/72822335/4da514ee-de4f-4657-af27-b55156173c26)
 
