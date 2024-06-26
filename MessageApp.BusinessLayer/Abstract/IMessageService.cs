@@ -1,0 +1,17 @@
+﻿using MessageApp.EntityLayer.Concrete;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MessageApp.BusinessLayer.Abstract
+{
+    public interface IMessageService : IGenericService<Message>
+    {
+        List<Message> TGetReciverListMessage ( string mail );
+        List<Message> TGetSenderListMessage ( string mail );
+        List<Message> TGetSenderTrashMessage ( string mail );
+        List<Message> TGetRecieverTrashMessage ( string mail );
+    }
+}
